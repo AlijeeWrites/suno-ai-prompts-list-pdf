@@ -38,6 +38,18 @@ Vocal Direction defines the performance type and gender (e.g., female vocals, ma
 
 Use Case keeps the output practical and contextual (e.g., for short-form content).
 
+> **💎 Want the Full Vault? The "10,000 Suno AI Prompts List" gives you every genre, formula, and template in one place.**
+>
+> If your Suno results feel random, inconsistent, or low quality **the problem isn't the AI.** It's the lack of a structured input system.
+>
+> **This collection includes:**
+> *   **200+ genres** (Pop, Trap, EDM, Phonk, Cinematic, Lo-Fi, Drill, and more)
+> *   **50 copy-paste prompts per genre** for unlimited testing
+> *   **The Proven Formula:** Genre + Mood + Instruments + Vocals + Style
+> *   **Complete Guide:** Beginner basics to advanced customization
+>
+> 👉 **[Download the Full 10,000 Prompts Collection Here](https://sevensky.gumroad.com/l/10-000-suno-ai-prompts-pack))**
+
 **Let’s see this formula in action across three distinct examples:**
 
 Pop: Modern pop, bright and confident, mid-tempo, crisp drums and soft synths, female vocals, catchy chorus for short-form creator content. 
@@ -46,7 +58,7 @@ Instrumental: Lo-fi ambient track, calm and spacious, slow tempo, soft keys and 
 
 Melodic Rap: Melodic rap, introspective and late-night, mid-tempo, warm pads and clean drums, male vocals, verse and hook structure. 
 
-20+ Working Prompt Examples and Genre-Based Strategies
+**Working Prompt Examples and Genre-Based Strategies**
 
 To help you start prompting effectively, here are categorized examples based on proven strategies from the community and this guide’s architecture.
 
